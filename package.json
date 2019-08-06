@@ -1,0 +1,17 @@
+{
+  "name": "ibp_script",
+  "version": "1.0.0",
+  "description": "A set of scripts to automate network creation on IBM Blockchain Platform",
+  "main": "setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Rodriguez",
+  "license": "MIT",
+  "dependencies": {
+    "fabric-ca-client": "^1.4.4",
+    "promise": "^8.0.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
